@@ -1,4 +1,6 @@
-cc-fit-label is Custom Component for CocosCreator.
+# cc-fit-label
+
+cc-fit-label is Custom Component for CocosCreator.  
 It's changes the x-scale depending on the length of the string.
 
 ## Usage
